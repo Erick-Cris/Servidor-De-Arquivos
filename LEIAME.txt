@@ -1,0 +1,4 @@
+1) Aplicação desenvolvida em java. Foram usadas apenas bibliotecas padrões do JDK8
+2) Os arquivos que o servidor de arquivos irá disponibilizar para download devem permanecer dentro do diretorio "Arquivos" na pasta raiz da aplicação
+3) A porta utilizada pelo servidor está definida de maneira hard coded como 4001. Caso deseje utilziar uma porta diferente altere a porta no código fonte.
+4) O programa é composto de 3 arquivos (Main, Servidor, Task)
